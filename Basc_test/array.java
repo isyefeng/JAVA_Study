@@ -25,7 +25,7 @@ public class array{
 	public void array_for_element()
 	{
 		int[] array_t = {0,102,31,421,12};
-		
+		   
 		for(int element:array_t)
 		{
 			System.out.println(element);
